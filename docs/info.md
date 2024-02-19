@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a design of an analog bias amplifier for a multimodal sensor system. The amplifier is used to provide a control bias in the electrochemical sensor module of the system. 
 
 ## How to test
 
-Explain how to use your project
+The amplifier will be tested for nominal oprations of an op amp. It will be characterized in terms of gain and output voltage range. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Additional buffers may be required to test the bias amplifier.
